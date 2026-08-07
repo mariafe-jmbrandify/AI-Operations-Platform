@@ -180,52 +180,46 @@ The first implementation of AIOP focuses on **HOA and Residential Property Manag
 
 # 🏗 Platform Architecture
 
-                          Users
-                             │
-                             ▼
+```text
+                        Business Users
+                               │
+                               ▼
 
-╔══════════════════════════════════════╗
-║      Communication Layer             ║
-║ Gmail • Spark • Slack • Dialpad      ║
-╚══════════════════════════════════════╝
-                  │
-                  ▼
-
-╔══════════════════════════════════════╗
-║        Knowledge Layer              ║
-║ SOPs • Docs • Drive • Templates     ║
-╚══════════════════════════════════════╝
-                  │
-                  ▼
-
-╔══════════════════════════════════════╗
-║       AI Intelligence Layer         ║
-║ Claude AI                           ║
-║ • Classification                    ║
-║ • Search                            ║
-║ • Drafting                          ║
-║ • Reasoning                         ║
-╚══════════════════════════════════════╝
-                  │
-                  ▼
-
-╔══════════════════════════════════════╗
-║      Automation Engine              ║
-║ Google Apps Script                  ║
-║ • Triggers                          ║
-║ • APIs                              ║
-║ • Logging                           ║
-╚══════════════════════════════════════╝
-                  │
-                  ▼
-
-╔══════════════════════════════════════╗
-║      Business Systems               ║
-║ Buildium                            ║
-║ AppFolio                            ║
-║ Airtable                            ║
-║ ClickUp                             ║
-╚══════════════════════════════════════╝
+┌─────────────────────────────────────────────┐
+│         Communication Layer                 │
+│ Gmail • Spark • Slack • Dialpad             │
+└─────────────────────────────────────────────┘
+                    │
+                    ▼
+┌─────────────────────────────────────────────┐
+│          Knowledge Layer                    │
+│ SOPs • Docs • Drive • Templates             │
+└─────────────────────────────────────────────┘
+                    │
+                    ▼
+┌─────────────────────────────────────────────┐
+│       AI Intelligence Layer                 │
+│ Claude AI                                   │
+│ • Classification                            │
+│ • Search                                    │
+│ • Drafting                                  │
+│ • Reasoning                                 │
+└─────────────────────────────────────────────┘
+                    │
+                    ▼
+┌─────────────────────────────────────────────┐
+│       Automation Engine                     │
+│ Google Apps Script                          │
+│ • Workflows                                │
+│ • APIs                                     │
+│ • Logging                                  │
+└─────────────────────────────────────────────┘
+                    │
+                    ▼
+┌─────────────────────────────────────────────┐
+│         Business Systems                    │
+│ Buildium • AppFolio • Airtable • ClickUp    │
+└─────────────────────────────────────────────┘
 
 ---
 
