@@ -88,17 +88,69 @@ AIOP transforms company knowledge into an AI-powered operational platform capabl
 
 ---
 
-# ✨ Platform Highlights
+## 🌟 Platform Capabilities
 
-| Capability | Description |
-|------------|-------------|
-| 🧠 AI Intelligence | Claude-powered reasoning, summarization, classification, and decision support |
-| ⚡ Workflow Automation | Event-driven automation using Google Apps Script |
-| 📚 Knowledge Engine | AI search across SOPs, policies, templates, and documentation |
-| 📧 Communication Hub | Gmail, Spark, Slack, Dialpad, and Google Calendar |
-| 🏢 Business Integrations | Buildium, AppFolio, Airtable, ClickUp, APIs |
-| 📄 Document Automation | AI-generated reports, meeting minutes, letters, and SOPs |
-| 📊 Operational Insights | Daily summaries, SLA tracking, dashboards, and analytics |
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🧠 AI Intelligence
+
+Reasoning
+
+Classification
+
+Decision Support
+
+Summarization
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚡ Automation
+
+Google Apps Script
+
+Triggers
+
+Workflows
+
+API Orchestration
+
+</td>
+
+<td width="25%" align="center">
+
+### 📚 Knowledge
+
+SOP Search
+
+Policies
+
+Templates
+
+Documentation
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔗 Integrations
+
+Google Workspace
+
+Spark
+
+Buildium
+
+AppFolio
+
+Slack
+
+</td>
+</tr>
+</table>
 
 ---
 
