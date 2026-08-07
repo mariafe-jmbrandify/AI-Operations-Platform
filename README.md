@@ -12,13 +12,15 @@
 
 </p>
 
+---------
+
 <p align="center">
 
-<a href="#-transform-business-operations-with-ai">Overview</a> •
-<a href="#-platform-architecture">Architecture</a> •
-<a href="#-platform-highlights">Features</a> •
-<a href="#-roadmap">Roadmap</a> •
-<a href="#-documentation">Documentation</a>
+<a href="#-overview">🏠 Overview</a> •
+<a href="#-platform-architecture">🏗 Architecture</a> •
+<a href="#-features">✨ Features</a> •
+<a href="#-roadmap">🛣 Roadmap</a> •
+<a href="#-documentation">📚 Docs</a>
 
 </p>
 
@@ -38,6 +40,42 @@ Unlike traditional workflow automation, AIOP combines:
 into one unified operational platform.
 
 Instead of employees searching through documents, SOPs, and multiple applications, AIOP understands how the business works and helps employees execute work faster, more consistently, and with greater confidence.
+
+---
+
+## ⚡ Quick Start
+
+```text
+AI Operations Platform
+
+↓
+
+Knowledge
+
+↓
+
+Claude AI
+
+↓
+
+Google Apps Script
+
+↓
+
+Business Systems
+
+↓
+
+Automation
+```
+
+**Current Status**
+
+- ✅ Planning
+- ✅ Vision
+- 🚧 Architecture
+- 🚧 System Design
+- ⏳ Implementation
 
 ---
 
