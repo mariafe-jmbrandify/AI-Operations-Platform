@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 📚 Documentation
+    url: https://github.com/mariafe-jmbrandify/AI-Operations-Platform/tree/main/docs
+    about: Please review the project documentation before opening an issue.
+
+  - name: 💬 Discussions
+    url: https://github.com/mariafe-jmbrandify/AI-Operations-Platform/discussions
+    about: Ask questions or share ideas with the community.
