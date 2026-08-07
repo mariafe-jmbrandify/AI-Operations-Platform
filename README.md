@@ -26,12 +26,6 @@
 
 # 🚀 Transform Business Operations with AI
 
-The **AI Operations Platform (AIOP)** is an enterprise framework...
-
----
-
-# 🚀 Transform Business Operations with AI
-
 The **AI Operations Platform (AIOP)** is an enterprise framework for building intelligent business operations powered by **Claude AI**, **Google Apps Script**, **Google Workspace**, and modern API integrations.
 
 Unlike traditional workflow automation, AIOP combines:
