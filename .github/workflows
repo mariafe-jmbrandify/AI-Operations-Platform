@@ -1,0 +1,10 @@
+Developer pushes code
+        │
+        ▼
+GitHub Action runs
+        │
+        ▼
+Checks Documentation
+Runs Tests
+Creates Release
+Deploys Docs
