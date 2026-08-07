@@ -1,5 +1,3 @@
-# AI-Operations-Platform
-Enterprise AI Operations Platform that combines Claude AI, Google Apps Script, Google Workspace, and business systems to automate workflows, transform SOPs into intelligent knowledge, and orchestrate business operations.
 <p align="center">
   <img src="assets/banner.png" alt="AI Operations Platform Banner" width="100%">
 </p>
