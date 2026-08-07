@@ -154,6 +154,30 @@ Slack
 
 ---
 
+## 🚧 Current Implementation
+
+The first implementation of AIOP focuses on **HOA and Residential Property Management**.
+
+### Included
+
+- AI Knowledge Assistant
+- Email Automation
+- SOP Intelligence
+- Document Generation
+- Workflow Automation
+- Google Workspace Integration
+
+### Planned
+
+- Buildium
+- AppFolio
+- Spark
+- Dialpad
+- Slack
+- ClickUp
+
+---
+
 # 🏗 Platform Architecture
 
                           Users
