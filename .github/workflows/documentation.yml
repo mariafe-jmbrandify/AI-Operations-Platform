@@ -1,0 +1,23 @@
+name: Documentation Check
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  documentation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Verify documentation exists
+        run: |
+          test -f README.md
+          test -f docs/01-PLAN.md
+          test -f docs/02-VISION.md
+          test -f docs/03-ARCHITECTURE.md
+          test -f docs/04-SYSTEM-DESIGN.md
+          test -f docs/05-DATA-ARCHITECTURE.md
