@@ -1,26 +1,32 @@
 <p align="center">
-  <img src="assets/banner.png" alt="AI Operations Platform Banner" width="100%">
-</p>
-
-<h1 align="center">AI Operations Platform (AIOP)</h1>
-
-<p align="center">
-  <strong>Enterprise AI • Workflow Automation • Knowledge Intelligence</strong>
+  <img src="./assets/banner.png" alt="AI Operations Platform Banner" width="100%">
 </p>
 
 <p align="center">
 
-![Status](https://img.shields.io/badge/Status-In%20Development-blue)
-
-![Version](https://img.shields.io/badge/Version-2.0-green)
-
-![AI](https://img.shields.io/badge/AI-Claude-orange)
-
-![Automation](https://img.shields.io/badge/Automation-Google%20Apps%20Script-success)
-
-![License](https://img.shields.io/badge/License-Proprietary-red)
+<img src="https://img.shields.io/badge/Status-In%20Development-blue">
+<img src="https://img.shields.io/badge/Version-2.0-success">
+<img src="https://img.shields.io/badge/AI-Claude-orange">
+<img src="https://img.shields.io/badge/Automation-Google%20Apps%20Script-green">
+<img src="https://img.shields.io/badge/License-Proprietary-red">
 
 </p>
+
+<p align="center">
+
+<a href="#-transform-business-operations-with-ai">Overview</a> •
+<a href="#-platform-architecture">Architecture</a> •
+<a href="#-platform-highlights">Features</a> •
+<a href="#-roadmap">Roadmap</a> •
+<a href="#-documentation">Documentation</a>
+
+</p>
+
+---
+
+# 🚀 Transform Business Operations with AI
+
+The **AI Operations Platform (AIOP)** is an enterprise framework...
 
 ---
 
