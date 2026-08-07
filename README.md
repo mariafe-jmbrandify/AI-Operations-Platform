@@ -14,8 +14,9 @@
 
 ---------
 
-<p align="center">
+> **An enterprise framework that transforms organizational knowledge into intelligent business operations powered by AI.**
 
+<p align="center">
 <a href="#-overview">🏠 Overview</a> •
 <a href="#-platform-architecture">🏗️ Architecture</a> •
 <a href="#-features">✨ Features</a> •
