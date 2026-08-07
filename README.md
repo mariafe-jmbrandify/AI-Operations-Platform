@@ -156,65 +156,52 @@ Slack
 
 # 🏗 Platform Architecture
 
-```text
-                      Business Users
+                          Users
                              │
                              ▼
-──────────────────────────────────────────────────
 
- Communication Layer
+╔══════════════════════════════════════╗
+║      Communication Layer             ║
+║ Gmail • Spark • Slack • Dialpad      ║
+╚══════════════════════════════════════╝
+                  │
+                  ▼
 
- Gmail
- Spark
- Slack
- Dialpad
- Calendar
+╔══════════════════════════════════════╗
+║        Knowledge Layer              ║
+║ SOPs • Docs • Drive • Templates     ║
+╚══════════════════════════════════════╝
+                  │
+                  ▼
 
-──────────────────────────────────────────────────
+╔══════════════════════════════════════╗
+║       AI Intelligence Layer         ║
+║ Claude AI                           ║
+║ • Classification                    ║
+║ • Search                            ║
+║ • Drafting                          ║
+║ • Reasoning                         ║
+╚══════════════════════════════════════╝
+                  │
+                  ▼
 
- Knowledge Layer
+╔══════════════════════════════════════╗
+║      Automation Engine              ║
+║ Google Apps Script                  ║
+║ • Triggers                          ║
+║ • APIs                              ║
+║ • Logging                           ║
+╚══════════════════════════════════════╝
+                  │
+                  ▼
 
- SOPs
- Policies
- Google Docs
- Drive
- Templates
- Training
-
-──────────────────────────────────────────────────
-
- AI Intelligence Layer
-
- Claude AI
-
- Classification
- Drafting
- Search
- Summaries
- Recommendations
-
-──────────────────────────────────────────────────
-
- Automation Layer
-
- Google Apps Script
-
- Workflows
- Triggers
- APIs
- Logging
-
-──────────────────────────────────────────────────
-
- Business Systems
-
- Buildium
- AppFolio
- ClickUp
- Airtable
- QuickBooks
- Future APIs
-```
+╔══════════════════════════════════════╗
+║      Business Systems               ║
+║ Buildium                            ║
+║ AppFolio                            ║
+║ Airtable                            ║
+║ ClickUp                             ║
+╚══════════════════════════════════════╝
 
 ---
 
