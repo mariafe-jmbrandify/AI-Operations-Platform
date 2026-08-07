@@ -17,10 +17,10 @@
 <p align="center">
 
 <a href="#-overview">🏠 Overview</a> •
-<a href="#-platform-architecture">🏗 Architecture</a> •
+<a href="#-platform-architecture">🏗️ Architecture</a> •
 <a href="#-features">✨ Features</a> •
-<a href="#-roadmap">🛣 Roadmap</a> •
-<a href="#-documentation">📚 Docs</a>
+<a href="#-documentation">📚 Documentation</a> •
+<a href="#-roadmap">🛣️ Roadmap</a>
 
 </p>
 
