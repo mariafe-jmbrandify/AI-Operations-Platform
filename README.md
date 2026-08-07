@@ -220,47 +220,57 @@ The first implementation of AIOP focuses on **HOA and Residential Property Manag
 │         Business Systems                    │
 │ Buildium • AppFolio • Airtable • ClickUp    │
 └─────────────────────────────────────────────┘
+```
 
 ---
 
 # 🛠 Technology Stack
 
-## 🤖 Artificial Intelligence
+🤖 AI
 
-- Claude AI
+Claude
 
----
+━━━━━━━━━━━━━━━━━━━
 
-## ⚙️ Automation
+⚡ Automation
 
-- Google Apps Script
+Google Apps Script
 
----
+━━━━━━━━━━━━━━━━━━━
 
-## ☁️ Google Workspace
+☁ Workspace
 
-- Gmail
-- Google Sheets
-- Google Docs
-- Google Drive
-- Google Calendar
+Google Workspace
 
----
+Docs
 
-## 💬 Communication
+Sheets
 
-- Spark
-- Slack
-- Dialpad
+Drive
 
----
+Calendar
 
-## 🏢 Business Platforms
+━━━━━━━━━━━━━━━━━━━
 
-- Buildium
-- AppFolio
-- Airtable
-- ClickUp
+💬 Communication
+
+Spark
+
+Slack
+
+Dialpad
+
+━━━━━━━━━━━━━━━━━━━
+
+🏢 Business Systems
+
+Buildium
+
+AppFolio
+
+ClickUp
+
+Airtable
 
 ---
 
