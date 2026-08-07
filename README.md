@@ -27,20 +27,22 @@
 
 ---
 
-# 🚀 Transform Business Operations with AI
+# 🚀 Overview
 
-The **AI Operations Platform (AIOP)** is an enterprise framework for building intelligent business operations powered by **Claude AI**, **Google Apps Script**, **Google Workspace**, and modern API integrations.
+The **AI Operations Platform (AIOP)** is an enterprise AI operating system that transforms organizational knowledge into intelligent, automated business operations.
 
-Unlike traditional workflow automation, AIOP combines:
+Instead of employees switching between documentation, emails, spreadsheets, and multiple business applications, AIOP provides a unified platform that understands company knowledge, orchestrates workflows, and assists teams with everyday operational tasks.
 
-- 🧠 Artificial Intelligence
+Powered by **Claude AI**, **Google Apps Script**, **Google Workspace**, and modern API integrations, AIOP combines:
+
+- 🧠 AI Intelligence
 - ⚡ Workflow Automation
 - 📚 Organizational Knowledge
-- 🔗 Business System Integrations
+- 🔗 Enterprise Integrations
 
-into one unified operational platform.
+into a scalable platform designed to support operations across multiple industries.
 
-Instead of employees searching through documents, SOPs, and multiple applications, AIOP understands how the business works and helps employees execute work faster, more consistently, and with greater confidence.
+Whether managing HOA communities, coordinating property maintenance, overseeing construction projects, or running enterprise operations, AIOP enables organizations to work faster, more consistently, and with greater confidence.
 
 ---
 
@@ -181,45 +183,41 @@ The first implementation of AIOP focuses on **HOA and Residential Property Manag
 # 🏗 Platform Architecture
 
 ```text
-                        Business Users
-                               │
-                               ▼
-
-┌─────────────────────────────────────────────┐
-│         Communication Layer                 │
-│ Gmail • Spark • Slack • Dialpad             │
-└─────────────────────────────────────────────┘
-                    │
-                    ▼
-┌─────────────────────────────────────────────┐
-│          Knowledge Layer                    │
-│ SOPs • Docs • Drive • Templates             │
-└─────────────────────────────────────────────┘
-                    │
-                    ▼
-┌─────────────────────────────────────────────┐
-│       AI Intelligence Layer                 │
-│ Claude AI                                   │
-│ • Classification                            │
-│ • Search                                    │
-│ • Drafting                                  │
-│ • Reasoning                                 │
-└─────────────────────────────────────────────┘
-                    │
-                    ▼
-┌─────────────────────────────────────────────┐
-│       Automation Engine                     │
-│ Google Apps Script                          │
-│ • Workflows                                │
-│ • APIs                                     │
-│ • Logging                                  │
-└─────────────────────────────────────────────┘
-                    │
-                    ▼
-┌─────────────────────────────────────────────┐
-│         Business Systems                    │
-│ Buildium • AppFolio • Airtable • ClickUp    │
-└─────────────────────────────────────────────┘
+                    ┌────────────────────┐
+                    │   Business Users   │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+┌────────────────────────────────────────────────────┐
+│ 💬 Communication Layer                             │
+│ Gmail • Spark • Slack • Dialpad                    │
+└────────────────────────────────────────────────────┘
+                              │
+                              ▼
+┌────────────────────────────────────────────────────┐
+│ 📚 Knowledge Layer                                 │
+│ SOPs • Google Docs • Drive • Templates             │
+└────────────────────────────────────────────────────┘
+                              │
+                              ▼
+┌────────────────────────────────────────────────────┐
+│ 🧠 AI Intelligence Layer                           │
+│ Claude AI                                          │
+│ • Classification • Search • Drafting • Reasoning  │
+└────────────────────────────────────────────────────┘
+                              │
+                              ▼
+┌────────────────────────────────────────────────────┐
+│ ⚡ Automation Engine                               │
+│ Google Apps Script                                │
+│ • Triggers • Workflows • APIs • Logging           │
+└────────────────────────────────────────────────────┘
+                              │
+                              ▼
+┌────────────────────────────────────────────────────┐
+│ 🏢 Business Systems                                │
+│ Buildium • AppFolio • Airtable • ClickUp          │
+└────────────────────────────────────────────────────┘
 ```
 
 ---
